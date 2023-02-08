@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there👋 I'm elyees 🧸 
 
+![](https://komarev.com/ghpvc/?username=devmiano&color=green&style=for-the-badge)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=tokyonight_duo&hide_border=true&border_radius=6.6&date_format=%5BY.%5Dn.j&mode=weekly&sideNums=EB5454&background=0B0B39&border=52EBD9&stroke=EB576D)](https://git.io/streak-stats)
 <!--
-**kooya3/kooya3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kooya3/kooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=99913146)
