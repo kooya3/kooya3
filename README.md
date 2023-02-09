@@ -50,6 +50,5 @@ Javascript, HTML, CSS, Tailwind, Next.js, React...
 📫 ***How to reach me: ...***
 >Feel free to reach out to me via email or social media. My information can be found on my GitHub profile.
 
- # Thankyou for visiting my page❤️
 
 
