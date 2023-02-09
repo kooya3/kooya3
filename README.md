@@ -1,5 +1,5 @@
-## Welcome to my GitHub Profile! 🎉
-### Hi there👋 I'm elyees 🧸 
+# Welcome to my GitHub Profile! 🎉
+### Hi👋 I'm elyees 🧸 
 
 ![](https://komarev.com/ghpvc/?username=devmiano&color=green&style=for-the-badge)
 
@@ -16,4 +16,17 @@ How to reach me: elyees.dev@gmail.com
 
 Pronouns: He/Him
 
-Fun fact: I am a big fan of video games and enjoy playing in my free time.aa
+Fun fact: I am a big fan of video games and enjoy playing in my free time.
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Tailwind, Next.js, React...
+
