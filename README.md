@@ -1,20 +1,19 @@
+## Welcome to my GitHub Profile! 🎉
 ### Hi there👋 I'm elyees 🧸 
 
 ![](https://komarev.com/ghpvc/?username=devmiano&color=green&style=for-the-badge)
 
+
+I am a seasoned software developer who is passionate about delivering high-quality, efficient and user-friendly solutions. With a long and rich experience in coding and software development, I am ready to take on new challenges and contribute to the open-source community.
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=tokyonight_duo&hide_border=true&border_radius=6.6&date_format=%5BY.%5Dn.j&mode=weekly&sideNums=EB5454&background=0B0B39&border=52EBD9&stroke=EB576D)](https://git.io/streak-stats)
-<!--
-**kooya3/kooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently working on various projects, both personal and professional, that aim to push the boundaries of technology and make a real impact in people's lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://hit.yhype.me/github/profile?user_id=99913146)
+If you're interested in collaborating, don't hesitate to reach out to me. I am always open to new opportunities and projects that challenge me to grow as a software developer.
+
+How to reach me: elyees.dev@gmail.com
+
+Pronouns: He/Him
+
+Fun fact: I am a big fan of video games and enjoy playing in my free time.aa
