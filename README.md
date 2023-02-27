@@ -17,38 +17,6 @@ How to reach me: elyees.dev@gmail.com
 Pronouns: He/Him
 
 Fun fact: I am a big fan of video games and enjoy playing in my free time.
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
-
-
-
-## 🛠 Skills
-Javascript, HTML, CSS, Tailwind, Next.js, React...
-
-
-## 
-🔭 ***I’m currently working on ...***   
->Building exciting projects that solve real-world problems using cutting-edge technologies.
-
-🌱 ***I’m currently learning ...***
->Expanding my knowledge in the field of Artificial Intelligence and Machine Learning.
-
-👯 ***I’m looking to collaborate on ...***
->Innovative projects that aim to make a positive impact on society and the world as a whole. I love working with people who are passionate and motivated to create something great together.
-
-🤔 ***I’m looking for help with ...***
->Challenging problems that require creative solutions and a fresh perspective. If you have an expertise in a particular field, I'd love to hear from you!
-
-💬 ***Ask me about ...***
->Anything related to coding, tech, AI, or just about life in general. I'm always open to having a chat and connecting with others.
-
-📫 ***How to reach me: ...***
->Feel free to reach out to me via email or social media. My information can be found on my GitHub profile.
 
 
 
