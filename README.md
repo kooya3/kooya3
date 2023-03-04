@@ -20,4 +20,5 @@ Fun fact: I am a big fan of video games and enjoy playing in my free time.
 
 
 
-Give me stars on projects you like ![star](https://user-images.githubusercontent.com/84116117/222882229-23698911-71d7-4d72-ad23-ee57561d377f.png)
+ ![star (1)](https://user-images.githubusercontent.com/84116117/222882267-2d4806e0-793b-49c8-8f1b-2e99aa1c62b8.png) Give me stars on projects you like ![star (1)](https://user-images.githubusercontent.com/84116117/222882252-e492996e-244f-4b98-b001-77581ebd8f8a.png)
+
