@@ -12,7 +12,16 @@ const Computers = () => {
       {/* creating a light to allow user to see */}
       <hemisphereLight intensity={0.15}
       groundColor="black" />
+       <spotLight
+        position={[-20, 50, 10]}
+        angle={0.12}
+        penumbra={1}
+        intensity={1}
+        castShadow
+        shadow-mapSize={1024}
+      />     
       <pointLight intensity={1} />
+      <ambientLight intensity={0.5} />
       <primitive
       object={computer.scene} 
       scale={ 0.75 }
