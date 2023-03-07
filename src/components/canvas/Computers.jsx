@@ -21,7 +21,7 @@ const Computers = () => {
         shadow-mapSize={1024}
       />     
       <pointLight intensity={1} />
-      <ambientLight intensity={0.5} />
+{/*       <ambientLight intensity={0.5} /> */}
       <primitive
       object={computer.scene} 
       scale={ 0.75 }
