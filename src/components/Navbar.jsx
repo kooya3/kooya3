@@ -21,7 +21,7 @@ const Navbar = () => {
         >
           <img src={logo}  alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer">
-            Elyees <span>| Tatua </span>
+            Elyees <span className="sm:block hidden">| Tatua </span>
           </p>
         </Link>
       </div>
