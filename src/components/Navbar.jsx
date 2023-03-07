@@ -1,7 +1,7 @@
 import React,  { useState, useEffect } from 'react';
 import { Link  } from 'react-router-dom';
 import { styles } from '../styles';
-import { NavLinks } from '../constants';
+import { navLinks } from '../constants';
 import { logo, menu, close } from '../assets';
 
 const Navbar = () => {
@@ -20,6 +20,9 @@ const Navbar = () => {
         }}
         >
           <img src={logo}  alt="logo" className="w-9 h-9 object-contain" />
+          <p className="text-white text-[18px] font-bold cursor-pointer">
+            Elyees <span>| Tatua </span>
+          </p>
         </Link>
       </div>
     </nav>
