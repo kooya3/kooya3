@@ -43,6 +43,7 @@ const ProjectCard = ({
                 alt='source code'
                 className='w-1/2 h-1/2 object-contain'
               />
+              {/* Create a new div over here for the live url of your projects */}
             </div>
           </div>
         </div>
