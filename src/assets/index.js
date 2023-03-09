@@ -1,3 +1,7 @@
+import yariga from "./yariga.svg";
+import youtube from "./youtube.png";
+import gym from "./gym.png";
+import musiq from "./musiq.png";
 import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  yariga,
+  musiq,
+  gym,
+  youtube,
 };
