@@ -47,8 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      I'm a skilled software developer from Kenya, proficient in TypeScript, JavaScript, React, Node.js, and Three.js. I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
-      I am dedicated to delivering high-quality work and take pride in my ability to bring complex ideas to life. Whether you need a new application built from scratch, or an existing system updated and improved, I have the skills and expertise to make it happen.
+As a proficient software developer based in Kenya, I specialize in TypeScript, JavaScript, Next.js, React, Node.js, and Three.js. My expertise lies in collaborating with clients to develop scalable, user-friendly solutions that effectively address real-world challenges.
+
+I am committed to delivering top-notch work and am proud of my ability to bring complex ideas to fruition. Whether you require a new application built from the ground up or an existing system updated and improved, I possess the skills and expertise necessary to deliver quality results.
+
+Let us work together to bring your ideas to life and create solutions that exceed your expectations.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

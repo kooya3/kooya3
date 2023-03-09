@@ -1,6 +1,11 @@
 import yariga from "./yariga.svg";
+import vop from "./vop.png";
+import ampm from "./am-pm.png";
+import yutub from "./yutub.png";
+import yarigaEstate from "./yariga.png";
+import gym from "./elyssagym.png";
+import belfast from "./belfast.png";
 import youtube from "./youtube.png";
-import gym from "./gym.png";
 import musiq from "./musiq.png";
 import logo from "./logo.png";
 import backend from "./backend.png";
@@ -67,4 +72,9 @@ export {
   musiq,
   gym,
   youtube,
+  belfast,
+  vop,
+  ampm,
+  yutub,
+  yarigaEstate,
 };

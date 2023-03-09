@@ -30,8 +30,45 @@ const Contact = () => {
       [name]: value,
     });
   };
+
   
-  const handleSubmit = () => {}
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setLoading(true);
+
+    emailjs
+    .send(
+      'service_5v38bop',
+      'template_ol32w0z',
+    {
+      from_name: form.name,
+      to_name: "Elyees",
+      from_email: form.email,
+      to_email: "elyees.dev@gmail.com",
+      message: form.message,
+    },
+    'VOFw9-a5rZR8R_V88'
+  )
+  .then(
+    () => {
+      setLoading(false);
+      alert("Thank you. I will get back to you as soon as possible.");
+
+      setForm({
+        name: "",
+        email: "",
+        message: "",
+      });
+    },
+    (error) => {
+      setLoading(false);
+      console.error(error);
+
+      alert("Ahh, something went wrong. Please try again.");
+    }
+  );
+};
+
   
   return (
     <div className="xl:mt-12 xl:flex-row flex-col-reverse flex gap-10 overflow-hidden">

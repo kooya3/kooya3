@@ -45,7 +45,7 @@ const Navbar = () => {
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Elyees &nbsp;
-            <span className='sm:block hidden'>| Waweru Tatua </span> &nbsp; <span className='text-gray-400 text-[19px]'> <a href='https://github.com/kooya3'>@kooya3</a></span>
+            <span className='sm:block hidden'>| Tatua </span> &nbsp; <span className='text-gray-400 text-[19px]'> <a href='https://github.com/kooya3'>@kooya3</a></span>
           </p>
         </Link>
 

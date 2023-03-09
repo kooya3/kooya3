@@ -8,7 +8,7 @@ const Stars = (props) => {
   const [sphere] = useState(() => random.inSphere(new Float32Array(6000), { radius: 1.35 })); /* defining the sphere */
 
   useFrame((state, delta) => {
-    ref.current.rotation.x -= delta / 13;
+    ref.current.rotation.x -= delta / 10;
     ref.current.rotation.y -= delta / 15.3;
   });
 
