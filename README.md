@@ -12,7 +12,7 @@ I am currently working on various projects, both personal and professional, that
 
 If you're interested in collaborating, don't hesitate to reach out to me. I am always open to new opportunities and projects that challenge me to grow as a software developer.
 
-How to reach me: elyees.dev@gmail.com
+How to reach me: https://elyeestatua.tech/
 
 Pronouns: He/Him
 
