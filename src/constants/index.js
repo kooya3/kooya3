@@ -169,27 +169,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
+        "I thought it was impossible to make a website as beautiful as our product, but Elyees proved me wrong.",
+      name: "Steven Kariuki",
       designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      company: "VOP",
+      image: "https://randomuser.me/api/portraits/men/53.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
+        "I've never met a web developer who truly cares about their clients' success like Elyees does.",
+      name: "James Kanyeki",
       designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      company: "AM/PM",
+      image: "https://randomuser.me/api/portraits/men/55.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "After Elyees optimized our website, our traffic increased by 50%. We really can't thank him enough!",
+      name: "Edith Karuga",
       designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      company: "VOP",
+      image: "https://randomuser.me/api/portraits/women/89.jpg",
     },
   ];
   
@@ -197,7 +197,7 @@ import {
     {
       name: "Youtube Clone",
       description:
-        "The web-based platform described provides a user-friendly solution for searching and viewing YouTube videos from various providers. Its features include extensive search capabilities with filters, tools for customization of the viewing experience, recommendations based on viewing history, and broad device compatibility. The platform is free to use and accessible from virtually any device with an internet connection. It offers a seamless and engaging viewing experience for users worldwide.",
+        "The web-based platform described provides a user-friendly solution for searching and viewing YouTube videos from various providers. Its features include extensive search capabilities with filters, tools for customization of the viewing experience, and broad device compatibility. The platform is free to use and accessible from virtually any device with an internet connection. It offers a seamless and engaging viewing experience for users worldwide.",
       tags: [
         {
           name: "react",
@@ -226,7 +226,7 @@ import {
     {
       name: "Elyssa Gym",
       description:
-        "A web-based home workout website that is integrated with exercise APIs. The platform provides users with access to various exercise programs and routines that can be customized to meet their individual needs. The website's features include real-time data on users' workout performance, customized recommendations based on user preferences and fitness levels, and social features that allow users to connect with other fitness enthusiasts. Overall, the website is a useful tool for anyone looking to improve their fitness and lead a healthier lifestyle.",
+        "web-based home workout website that is integrated with exercise APIs. The platform provides users with access to various exercise programs and routines that can be customized to meet their individual needs. The website's features include real-time data, customized recommendations based on user preferences and fitness levels. Overall, the website is a useful tool for anyone looking to improve their fitness and lead a healthier lifestyle.",
       tags: [
         {
           name: "react",
@@ -259,7 +259,7 @@ import {
     {
       name: "Yariga Real Estate",
       description:
-        "web-based real estate application is built using the MERN stack and cloudinary, providing a basic CRUD platform for users to post properties and act as real estate agents. The app supports Google OAuth service for easy access and cloudinary integration for efficient property image management. The front-end is built using React, while the back-end uses Node.js and Express, with MongoDB for secure and scalable database management. Overall, the app offers a powerful and streamlined solution for real estate agents to manage their property listings.",
+        "web-based real estate application built using the MERN stack and cloudinary, providing a basic CRUD platform for users to post properties and act as real estate agents. The app supports Google OAuth service for easy access and cloudinary integration for efficient property image management and scalable database management. Overall, the app offers a powerful and streamlined solution for real estate agents to manage their property listings.",
       tags: [
         {
           name: "nextjs",
