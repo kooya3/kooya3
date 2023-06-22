@@ -9,6 +9,8 @@ I am a seasoned software developer who is passionate about delivering high-quali
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=tokyonight-duo&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&background=45%2C2807EBA6%2CEB5454)](https://git.io/streak-stats)
 
 I am currently working on various projects, both personal and professional, that aim to push the boundaries of technology and make a real impact in people's// lives.
+ 
+All of the repos utilizing API's are currently down since I can't afford to pay a monthly subscription consistently. Will fix it up eventually.
 
 If you're interested in collaborating, don't hesitate to reach out to me. I am always open to new opportunities and projects that challenge me to grow as a software developer.
 
