@@ -28,6 +28,7 @@ import {
     youtube,
     belfast,
     vop,
+    sam,
     ampm,
     yutub,
     yarigaEstate,
@@ -153,7 +154,7 @@ import {
         },
     {
       title: "Web Developer",
-      company_name: "Am/Pm Restaurant & Bar along Kiambu Road",
+      company_name: "Am/Pm Restaurant & Bar",
       icon: ampm,
       iconBg: "#E6DEDD",
       date: "March 2023 - Present",
@@ -221,7 +222,7 @@ import {
         },
       ],
       image: yutub,
-      source_code_link: "https://elyees-youtube-2.netlify.app/",
+      source_code_link: "https://github.com/kooya3/youtube-ely",
     },
     {
       name: "Elyssa Gym",
@@ -254,7 +255,7 @@ import {
         },
       ],
       image: gym,
-      source_code_link: "https://elyssa-gym.netlify.app/",
+      source_code_link: "https://github.com/kooya3/elyssa-gym",
     },
     {
       name: "Yariga Real Estate",
@@ -283,7 +284,36 @@ import {
         },       
       ],
       image: yarigaEstate,
-      source_code_link: "https://yariga-ely.netlify.app/",
+      source_code_link: "https://github.com/kooya3/UI-UX-Dashboard",
+    },
+    {
+      name: "Sam",
+      description:
+        "Article summarizer for a new fullstack framework built on React. Try it with any text to see.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        }, 
+        {
+          name: "cloudinary",
+          color: "pink-text-gradient",
+        },       
+      ],
+      image: sam,
+      source_code_link: "https://github.com/kooya3/Saas/tree/main",
     },
   ];
   

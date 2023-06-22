@@ -1,5 +1,6 @@
 import yariga from "./yariga.svg";
 import vop from "./vop.png";
+import sam from "./sam.png";
 import ampm from "./am-pm.png";
 import yutub from "./yutub.png";
 import yarigaEstate from "./yariga.png";
@@ -76,5 +77,6 @@ export {
   vop,
   ampm,
   yutub,
+  sam,
   yarigaEstate,
 };
