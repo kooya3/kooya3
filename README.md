@@ -12,7 +12,7 @@ All of the repos utilizing API's are currently down since I can't afford to pay 
 
 If you're interested in collaborating, don't hesitate to reach out to me. I am always open to new opportunities and projects that challenge me to grow as a software developer.
 
-How to reach me: https://elyeestatua.tech/
+
 
 Pronouns: He/Him
 
