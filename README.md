@@ -17,5 +17,4 @@ Fun fact: I am a big fan of video games and enjoy playing in my free time.
  ![star (1)](https://user-images.githubusercontent.com/84116117/222882267-2d4806e0-793b-49c8-8f1b-2e99aa1c62b8.png) Make sure to star any projects you like ![star (1)](https://user-images.githubusercontent.com/84116117/222882252-e492996e-244f-4b98-b001-77581ebd8f8a.png)
 
 <!-- END -->
-
-<a href="https://app.daily.dev/kooya3"><img src="./devcard.png" width="356" alt="kooya3's Dev Card"/></a>
+<a href="https://app.daily.dev/kooya3"><img src="https://api.daily.dev/devcards/v2/AUBFgdIMOLOVR9Ky47Tsw.png?type=default&r=39d" width="356" alt="Elyees Tatua's Dev Card"/></a>
