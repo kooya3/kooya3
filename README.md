@@ -18,4 +18,4 @@ Fun fact: I am a big fan of video games and enjoy playing in my free time.
 
 <!-- END -->
 
-<a href="https://app.daily.dev/kooya3"><img src="./devcard.png" width="356" alt="Elyees Tatua's Dev Card"/></a>
+<a href="https://app.daily.dev/kooya3"><img src="./devcard.png" width="356" alt="kooya3's Dev Card"/></a>
