@@ -16,3 +16,4 @@ I am always open to new opportunities and projects that challenge me to grow as 
 
  ![star (1)](https://user-images.githubusercontent.com/84116117/222882267-2d4806e0-793b-49c8-8f1b-2e99aa1c62b8.png) Make sure to star any projects you like ![star (1)](https://user-images.githubusercontent.com/84116117/222882252-e492996e-244f-4b98-b001-77581ebd8f8a.png)
 
+#
