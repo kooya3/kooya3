@@ -9,6 +9,6 @@ I am a seasoned software developer who is passionate about delivering `high-qual
 I am always open to new opportunities and projects that challenge me to grow as a software developer.
 
  Fun fact: I am a big fan of video games and enjoy playing in my free time.
- you like ![star (1)](https://user-images.githubusercontent.com/84116117/222882252-e492996e-244f-4b98-b001-77581ebd8f8a.png)
+  like ![star (1)](https://user-images.githubusercontent.com/84116117/222882252-e492996e-244f-4b98-b001-77581ebd8f8a.png)
 
 
