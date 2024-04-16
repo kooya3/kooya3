@@ -10,4 +10,3 @@ I am always open to new opportunities and projects that challenge me to grow as 
 
  Fun fact: I am a big fan of video games and enjoy playing in my free time.
 
-#
