@@ -2,7 +2,7 @@
 ### Hi 🧸 there👋 
 >>> * * ![](https://komarev.com/ghpvc/?username=kooya3&color=green&style=for-the-badge) 
 > >
-> <a href="https://app.daily.dev/kooya3"><img src="https://api.daily.dev/devcards/v2/AUBFgdIMOLOVR9Ky47Tsw.png?type=wide&r=z4m" width="652" alt="Elyees Tatua's Dev Card"/></a>
+>> <a href="https://app.daily.dev/kooya3"><img src="https://api.daily.dev/devcards/v2/AUBFgdIMOLOVR9Ky47Tsw.png?type=wide&r=z4m" width="652" alt="Elyees Tatua's Dev Card"/></a>
 
 I am a seasoned software developer who is passionate about delivering `high-quality`, `efficient` and `user-friendly solutions`. With a long and rich experience in coding and software development, I am ready to take on new challenges and contribute to the open-source community.
 
@@ -12,3 +12,13 @@ Fun fact: I am a big fan of video games and enjoy playing in my free time.
 
 ### More About Me in Table Form! 📊
 Here's a quirky table of secrets about my daily routine and fun facts:
+
+
+| Parameter    | Type     | Description                           |
+| :----------- | :------- | :------------------------------------ |
+| `coffee_lvl` | `string` | **Required**. How much coffee needed to start coding today |
+| `game_mode`  | `string` | **Optional**. Current video game obsession |
+| `music`      | `string` | **Essential**. Today's coding soundtrack |
+| `fun_index`  | `number` | **Dynamic**. Current level of fun at work (1-10) |
+
+This table provides a playful glance at the attributes that power my coding sessions.
