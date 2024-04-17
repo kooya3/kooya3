@@ -8,7 +8,8 @@ I am a seasoned software developer who is passionate about delivering `high-qual
 
 I am always open to new opportunities and projects that challenge me to grow as a software developer.
 
-Fun fact: I am a big fan of video games and enjoy playing in my free time. Here are a few of my favorites:
+## 🎮 Fun Fact:
+I am a big fan of video games and enjoy playing in my free time. Here are a few of my favorites:
 - **The Legend of Zelda**: Breath of the Wild
   
 
