@@ -16,7 +16,7 @@ I am a big fan of video games and enjoy playing in my free time. Here are a few 
 - **The Witcher 3**: Wild Hunt
   
 
-#### More About Me in Table Form! 
+#### More About Me 
 Here's a quirky table of secrets about my daily routine and fun facts:
 
 
