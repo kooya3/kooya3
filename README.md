@@ -11,7 +11,7 @@ I am always open to new opportunities and projects that challenge me to grow as 
 #### 🎮 Fun Fact:
 I am a big fan of video games and enjoy playing in my free time. Here are a few of my favorites:
 
-- **The Legen
+- **The 
 - **FC24**
 - **The Witcher 3**: Wild Hunt
   
