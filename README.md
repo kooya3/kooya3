@@ -25,4 +25,4 @@ Here's a quirky table of secrets about my daily routine and fun facts:
 | `music`      | `string` | **Essential**. Today's coding soundtrack |
 | `fun_index`  | `number` | **Dynamic**. Current level of fun at work (1-10) |
 
-This table provides a playful glance at attributes that power my coding sessions.
+This table provides a playful glance at some attributes that power my coding sessions.
