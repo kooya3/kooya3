@@ -1,4 +1,4 @@
-## Great! You're here 🎉
+## Great! You're 
 ### Hi 🧸 there👋 
 >>> * * ![](https://komarev.com/ghpvc/?username=kooya3&color=green&style=for-the-badge) 
 > >
