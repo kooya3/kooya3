@@ -1,7 +1,7 @@
 
 ### Hi 🧸 there👋 
 >>> * * *
->!
+>
 >
 
 > > <a href="https://app.daily.dev/kooya3"><img src="https://api.daily.dev/devcards/v2/AUBFgdIMOLOVR9Ky47Tsw.png?type=wide&r=z4m" width="652" alt="Elyees Tatua's Dev Card"/></a>
