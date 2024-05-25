@@ -17,7 +17,7 @@ I am a big fan of video games and enjoy playing in my free time. Here are a few 
   
 
 #### More About Me:
- a quirky table of secrets about my daily routine and fun facts:
+A quirky table of secrets about my daily routine and fun facts:
 
 
 | Parameter    | Type     | Description                           |
