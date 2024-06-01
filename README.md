@@ -27,4 +27,5 @@ A quirky table of secrets about my daily routine and fun facts:
 | `fun_index`  | `number` | **Dynamic**. Current level of fun at work (1-10) |
 
 This table provides a playful glance at  the attributes that power my coding sessions.
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kooya3)](https://github.com/kooya3/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kooya3&bg_color=1c1e21&color=4cbd54&line=4c9e74&point=fff93d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
